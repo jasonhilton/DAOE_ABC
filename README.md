@@ -7,7 +7,7 @@ The lecture slides are available at
 Part 1 -  [https://jasonhilton.github.io/DAOE_ABC/Design_analysis_lecture.html](https://jasonhilton.github.io/DAOE_ABC/Design_analysis_lecture.html)
 
 
-Part 2 - [https://jasonhilton.github.io/DAOE_ABC/Design_analysis_lecture.html](https://jasonhilton.github.io/DAOE_ABC/Design_analysis_lecture_2.html)
+Part 2 - [https://jasonhilton.github.io/DAOE_ABC/Design_analysis_lecture_2.html](https://jasonhilton.github.io/DAOE_ABC/Design_analysis_lecture_2.html)
 
 
 # Resources
