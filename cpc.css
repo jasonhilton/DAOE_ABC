@@ -1,0 +1,86 @@
+.logo img {
+  width: 30%;
+  float: right;
+}
+
+/*
+.inverse {
+  background-color: #002852;
+  color: #ffffff;
+}
+*/
+
+.inverse {
+  background-color: #23373B;
+  color: #d6d6d6;
+}
+
+.remark-slide-content {
+  background-color: #FFFFFF;
+  border-top: 80px solid #23373B;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.5;
+  padding: 1em 2em 1em 2em
+}
+body {
+  font-size: 12px
+}
+.inverse a:link{
+  color:#ffffff;
+  text-decoration: underline; /* turns off background coloring of links */
+  font-weight:normal; 
+}
+
+.inverse a:hover { 
+  color: #FFF; 
+  text-decoration:underline; 
+  font-weight:normal; 
+}
+
+.inverse a:active { 
+  color: #FFF; 
+  text-decoration:underline; 
+  font-weight:normal; 
+}
+
+.inverse a:visited{
+  color:#ffffff;
+  text-decoration: underline; /* turns off background coloring of links */
+  font-weight:normal; 
+}
+
+ul li { margin-bottom: 10px; }
+
+
+.tight ul li {
+  margin-bottom: 4px;
+}
+
+.space {
+  margin-bottom: 2em;
+}
+
+img {
+    max-width: 100%;
+}
+
+.footnote {
+  font-size: 10px;
+}
+.slightspace{
+  margin-bottom: 1.2em;
+}
+
+
+.frame {
+  fill: none;
+  stroke: #000;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+
+
