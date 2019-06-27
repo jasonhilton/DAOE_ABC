@@ -7,7 +7,7 @@ date: "27/06/2019"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    mathjax: "default"
     seal: true
     css: [default, metropolis, metropolis-fonts, cpc.css]
     nature:
@@ -849,6 +849,7 @@ Meta-models are not a silver bullet
 
 ![](images/loop.png)
 
+(Gray, Hilton and Bijak 2016)
 
 ---
 # Validation and Verification
@@ -937,21 +938,21 @@ Advantages
 # Git commands
 
 Create a git repository
-```{bash,eval=F}
+```{bash,eval=F, echo=T}
 git init
 ```
 
 Add a file (or a file change) to your repository.
-```{bash,eval=F}
+```{bash,eval=F, echo=T}
 git add file.R
 ```
 
-```{bash,eval=F}
+```{bash,eval=F, echo=T}
 git commit -m "this is a commit message - I changed a file"
 ```
 
 Which files have changed since my last commit? 
-```{bash,eval=F}
+```{bash,eval=F, echo=T}
 git status
 ```
 

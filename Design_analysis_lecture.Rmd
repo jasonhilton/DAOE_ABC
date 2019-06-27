@@ -7,7 +7,7 @@ date: "27/06/2019"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    mathjax: "default"
     seal: true
     css: [default, metropolis, metropolis-fonts, cpc.css]
     nature:
